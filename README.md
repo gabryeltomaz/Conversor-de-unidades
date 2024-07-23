@@ -18,8 +18,8 @@ Este é um projeto de conversor de unidades escrito em Python. Ele permite conve
 1. Clone o repositório para o seu ambiente local:
 
     ```bash
-    git clone https://github.com/gabryeltomaz/conversor-unidades.git
-    cd conversor-unidades
+    git clone https://github.com/gabryeltomaz/conversor-de-unidades.git
+    cd conversor-de-unidades
     ```
 
 2. Execute o script Python, com ou sem interface:
